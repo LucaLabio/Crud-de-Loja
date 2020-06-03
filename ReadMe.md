@@ -1,10 +1,10 @@
-#CRUD Loja
-##CRUD com funcionalidades extras utilizando python, pandas e mongoDB
+# CRUD Loja
+## CRUD com funcionalidades extras utilizando python, pandas e mongoDB
 
-##Como utilizar:
-###Instalacao: 
+## Como utilizar:
+### Instalacao: 
 pip install -r requirements.txt
 
-###Execucao:
+### Execucao:
 go to repository path
 python main.py
